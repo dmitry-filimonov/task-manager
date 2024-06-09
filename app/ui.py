@@ -80,7 +80,7 @@ class MainWindow(QMainWindow):
         # Стилизация
         self.setStyleSheet("""
             QMainWindow {
-                background-image: url('icons/background.png');
+                background-image: url('icons/background.jpeg');
             }
             QLineEdit {
                 padding: 5px;
